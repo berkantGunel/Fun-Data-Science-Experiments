@@ -1,0 +1,22 @@
+#__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#Data files
+data/
+datasets/
+*.csv
+*.xlsx
+
+#IDE files
+.DS_Store
+Thumbs.db
+
+#environment files
+.env
+.venv/
+venv/
